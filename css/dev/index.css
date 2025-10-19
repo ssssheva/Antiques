@@ -176,7 +176,7 @@ html {
 }
 
 .hero {
-  max-width: 1366;
+  max-width: 1366px;
 }
 .hero__container {
   max-height: 40.625rem;
@@ -864,4 +864,5 @@ html {
   .new-page__link:hover::after {
     width: 100%;
   }
+
 }
